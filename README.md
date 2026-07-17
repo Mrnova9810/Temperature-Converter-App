@@ -6,7 +6,7 @@ This project is created using HTML, CSS, and Vanilla JavaScript.
 The same project will also be rebuilt using React to practice component-based development and move towards the MERN stack.
 
 ## Live Demo
-🔗 [View Deployed Site](https://your-deployed-link-here.com)
+🔗 [View Deployed Site](https://novetemperature.netlify.app)
 
 ## Preview
 ![Temperature Converter Preview](./preview.png)
