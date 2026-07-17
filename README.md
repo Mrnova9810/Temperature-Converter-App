@@ -25,10 +25,4 @@ The same project will also be rebuilt using React to practice component-based de
 ## Purpose
 This project is part of my learning journey to understand the fundamentals of frontend development before moving deeper into React and MERN stack development.
 
-## Future Improvements
-* Add input validation
-* Auto-convert as you type
-* Add unit toggle buttons
-* Rebuild using React
-
 Made with ❤️ while learning frontend development.
