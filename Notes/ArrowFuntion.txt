@@ -1,0 +1,7 @@
+funtion print(){
+    // code
+}                        // this
+                      //  and this are 
+const print = () =>{   //  same
+    // code
+}                

@@ -1,0 +1,44 @@
+body{
+    background-color: #98E8A8;
+    align-items: center;
+}
+
+.card{
+   
+    background-color: #BBEBCE;
+    width: 400px;
+    height: 250px;
+    margin:  0 auto;
+    margin-top: 150px;
+    padding: 50px;
+    position: relative;
+}
+
+h2{
+    color: #008B8B;
+    text-align: center;
+    
+}
+
+.row{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap:150px;
+    align-items: center;
+}
+
+.textarea{
+    width: 180px;
+    height: 20px;
+    resize: none;
+  
+}
+
+.units{
+    color:#16785d;
+    width: 160px;
+    font-size: 16px;
+    font-family:  cursive;
+}

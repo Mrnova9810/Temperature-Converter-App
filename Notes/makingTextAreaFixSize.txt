@@ -1,0 +1,4 @@
+
+
+ // this will disable resizing of textarea
+                                    resize: none

@@ -1,0 +1,8 @@
+.querySelector("#celsius");   // Selects by id
+.querySelector(".box");       // Selects by class
+.querySelector("textarea");   // Selects by tag name
+
+
+// it's can help ous to get DOM node/ object --> in class form,    => use .
+                                             --> by id to          => #
+                                             --> from tag also     => tage name

@@ -1,0 +1,4 @@
+  
+  // event == > key    
+  event.preventDefault();
+  this used when we dont wannt normal behaviour of key
