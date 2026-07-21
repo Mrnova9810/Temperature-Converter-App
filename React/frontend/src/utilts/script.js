@@ -82,6 +82,7 @@ function clear(){
     kelvinEl.value = ""
 }
 
+//  calsisusConvarter();
 
 
 

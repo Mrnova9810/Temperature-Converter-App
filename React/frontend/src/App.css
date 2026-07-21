@@ -1,9 +1,9 @@
+
 body{
     background-color: #98E8A8;
     align-items: center;
 }
-
-.card{
+#card{
     background-color: #BBEBCE;
     width: 400px;
     height: 250px;
@@ -13,30 +13,32 @@ body{
     position: relative;
 }
 
+
+
+
 h2{
     color: #008B8B;
     text-align: center; 
 }
 
-.row{
-    /* border: 2px solid black; */
-    display: flex;
-    flex-direction: row;
-    /* justify-content: space-between; */
-    gap:150px;
-    align-items: center;
-}
-
-.textarea{
-    width: 180px;
-    height: 20px;
-    resize: none;
-  
-}
-
-.units{
+p{
     color:#16785d;
     width: 160px;
     font-size: 16px;
     font-family:  cursive;
+}
+
+
+
+.Row{
+    display: flex;
+    flex-direction: row;
+    gap:150px;
+    align-items: center;
+}
+
+textarea{
+    width: 180px;
+    height: 20px;
+    resize: none;
 }
